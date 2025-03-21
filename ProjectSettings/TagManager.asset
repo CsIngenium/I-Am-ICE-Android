@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - ground
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - fondo
+  - Water
+  - UI
+  - Player
+  - Ground
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: fondo
+    uniqueID: 1749061111
+    locked: 0
+  - name: ground
+    uniqueID: 3016140345
+    locked: 0
+  - name: player
+    uniqueID: 1322451517
+    locked: 0
+  - name: ojo
+    uniqueID: 2709222663
+    locked: 0
+  - name: pupila
+    uniqueID: 3725287519
+    locked: 0
